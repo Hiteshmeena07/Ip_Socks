@@ -48,13 +48,13 @@ def change():
     print ('[+] Your IP has been Changed to : '+str(ma_ip()))
 
 print('''\033[1;32;40m \n
-  ___         ____             _        
+ ___         ____             _        
 |_ _|_ __   / ___|  ___   ___| | _____ 
  | || '_ \  \___ \ / _ \ / __| |/ / __|
  | || |_) |  ___) | (_) | (__|   <\__ \
 |___| .__/  |____/ \___/ \___|_|\_\___/
     |_|                                
-    
+
 from K@MEENA
 ''')
 print("\033[1;40;31m https://github.com/Hiteshmeena07/\n")
