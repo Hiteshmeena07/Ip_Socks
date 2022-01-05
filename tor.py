@@ -56,7 +56,7 @@ print('''\033[1;32;40m \n
  mm#mm  ##m#"         "mmm#" "#m#"  "#mm"  #  "m  "mmm" 
         #                                               
         "                                               
-Created By:-Netaji Subhas University (West Campus)
+Created By:-Netaji Subhas University Technology (West Campus)
 Members:- Hitesh:::Jaisal:::Mayank
 ''')
 print("\033[1;40;31m https://github.com/Hiteshmeena07/\n")
