@@ -79,7 +79,7 @@ if int(lin) ==int(0):
 			change()
 		except KeyboardInterrupt:
 
-		 	print('\nauto tor is closed ')
+		 	print('\nProgramme is closed ')
 		 	quit()
 
 else:
